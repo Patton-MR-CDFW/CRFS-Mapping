@@ -1,3 +1,9 @@
 *.csv
 *.xlsx
 .Rproj.user
+.Rhistory
+CRFS PC Mapping Documentation.docx
+CRFS PC Metadata.docx
+CRFS PR Mapping Documentation.docx
+CRFS_Mapping.Rproj
+Layer_Metadata_Backup.docx
